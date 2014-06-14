@@ -5,7 +5,7 @@ package maximumflow;
 
 
 /**
- * @author Dany
+ * @author Dinesh Appavoo
  *
  */
 public class Edge {
